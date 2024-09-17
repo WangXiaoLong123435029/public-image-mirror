@@ -541,6 +541,7 @@ docker.io/volcanosh/*
 docker.io/vulhub/kkfileview
 docker.io/wandb/*
 docker.io/weaveworks/*
+docker.io/webcenter/*
 docker.io/whyour/qinglong
 docker.io/wiznote/wizserver
 docker.io/xhofe/alist
